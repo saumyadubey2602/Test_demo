@@ -1,4 +1,4 @@
-import image2 from "../assets/images/image2.jpg";
+import image2 from "../assets/images/image20.jpeg";
 
 
 import {

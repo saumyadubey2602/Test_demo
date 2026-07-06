@@ -1,4 +1,4 @@
-import image5 from "../assets/images/image5.jpg";
+import image5 from "../assets/images/image2.jpg";
 
 function About() {
   return (
@@ -34,7 +34,7 @@ function About() {
 
             <div>
               <strong>Email:</strong>
-              <p>your@email.com</p>
+              <p>dubeysaumya2726@gmail.com</p>
             </div>
 
             <div>

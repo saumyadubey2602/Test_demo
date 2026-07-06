@@ -28,7 +28,7 @@ function Certificate() {
               <div className="card-body">
                 <h5 className="card-title">CYBERGEEK'26</h5>
                 <p className="card-text text-muted">
-                  IBM Certified 
+                  IIIT ALAHABAD CERTIFICATE.
                 </p>
               </div>
             </div>
@@ -43,9 +43,9 @@ function Certificate() {
                 alt="Coursera Certificate"
               />
               <div className="card-body">
-                <h5 className="card-title">Cyber Threat Intelligence</h5>
+                <h5 className="card-title">SQL and RELATIONAL DATABASES 101</h5>
                 <p className="card-text text-muted">
-                  IBM & Coursera Professional Certificate.
+                 IBM DEVELOPER SKILLS NETWORK.
                 </p>
               </div>
             </div>
@@ -60,9 +60,9 @@ function Certificate() {
                 alt="IBM Cloud Computing"
               />
               <div className="card-body">
-                <h5 className="card-title">IBM Cloud Computing</h5>
+                <h5 className="card-title">Python Programming</h5>
                 <p className="card-text text-muted">
-                  IBM Skills Academy Cloud Computing Practitioner.
+                  GEEKSFORGEEKS (GFG) CERTIFICATION.
                 </p>
               </div>
             </div>
