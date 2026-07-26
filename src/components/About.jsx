@@ -16,14 +16,11 @@ function About() {
           <h3>Who am I?</h3>
 
           <p>
-            Hello! I'm <strong>Saumya Dubey</strong>, a passionate Full Stack 
-            Developer who enjoys creating modern, responsive, and visually
-            appealing websites using React, HTML, CSS, and JavaScript.
+            Hello! I'm <strong>Saumya Dubey</strong>, Full Stack Developer with experience in building responsive, end-to-end web applications. I'm also passionate about Data Science, leveraging data analysis and machine learning concepts to create impactful solutions.
           </p>
 
           <p>
-            I love turning ideas into interactive web applications with clean
-            code, smooth animations, and excellent user experiences.
+            Full Stack Developer | Data Science Enthusiast | Passionate about building innovative web applications and data-driven solutions.
           </p>
 
           <div className="about-details">
@@ -69,8 +66,8 @@ function About() {
 
         <div className="timeline-card glass">
           <h3>🚀 Goal</h3>
-          <h4>Full Stack Developer</h4>
-          <p>Building scalable and modern web applications with modern technologies.</p>
+          <h4>Full Stack Developer | Data Scientist</h4>
+          <p>Full Stack Developer | Data Science Enthusiast | Passionate about building innovative web applications and data-driven solutions.</p>
         </div>
       </div>
     </section>

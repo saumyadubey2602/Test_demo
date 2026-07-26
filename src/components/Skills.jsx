@@ -2,9 +2,9 @@ function Skills() {
   const skills = [
     { name: "HTML", level: "95%" },
     { name: "CSS", level: "90%" },
-    
+    { name: "MySQL", level: "99%" },
     { name: "React", level: "50%" },
-    { name: "Git", level: "75%" },
+    { name: "Machine Learning", level: "60%" },
     { name: "GitHub", level: "80%" },
     { name: "Responsive Design", level: "90%" },
     { name: "Python", level: "70%" },

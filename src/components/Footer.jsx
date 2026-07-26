@@ -7,7 +7,7 @@ function Footer() {
       <h2>Saumya Dubey</h2>
 
       <p>
-        Frontend Developer | React Developer | Web Designer
+        Frontend Developer | Data Scientist | Web Designer
       </p>
 
       <div className="footer-social">

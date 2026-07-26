@@ -15,6 +15,12 @@ function Services() {
         "Creating interactive user interfaces with React, HTML, CSS, and JavaScript.",
     },
     {
+      icon: <FaLaptopCode />,
+      title: "Data Science",
+      description:
+        "Enjoy building scalable applications and extracting insights from data.",
+    },
+    {
       icon: <FaMobileAlt />,
       title: "Responsive Design",
       description:

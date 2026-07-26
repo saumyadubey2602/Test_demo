@@ -1,5 +1,6 @@
 import project1 from "../assets/images/image8.jpg";
 import project2 from "../assets/images/image9.jpg";
+import project3 from "../assets/images/1.png";
 
 function Projects() {
   const projects = [
@@ -14,8 +15,14 @@ function Projects() {
     {
       image: project2,
       title: "Bank Mangaement System",
-      description: "A simple bank transaction system",
+      description: "A Bank Management System (BMS) is a software application that automates and manages the day-to-day operations of a bank. It helps banks securely handle customer accounts, transactions, loans, deposits, withdrawals, and other financial services while maintaining accurate records.",
       tech: ["HTML", "CSS", "JavaScript"],
+    },
+    {
+      image: project3,
+      title: "FinStack",
+      description: "Developed FinStack, a full-stack personal finance tracker that enables users to manage expenses, monitor budgets, and visualize financial trends through interactive dashboards. This project demonstrates my skills in Full Stack Development and my growing interest in Data Science through data analysis and visualization.",
+      tech: ["HTML", "CSS", "JavaScript","React","MySQL"],
     },
     
     
